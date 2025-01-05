@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "北溟心法/初探北溟心法.md",
+                "file": "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初探北溟心法"
+              "title": "初探北溟心法(暫時總檔案)"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1c1070ed7995d15",
@@ -149,8 +150,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           },
           {
@@ -159,8 +160,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "message-square",
+              "title": "Smart Chat"
             }
           },
           {
@@ -172,9 +173,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "32640be26e981f47",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -197,14 +208,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-text-transporter:Text Transporter": false,
+      "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-git:Open Git source control": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e350833412ad034f",
+  "active": "d655b650c62bc077",
   "lastOpenFiles": [
-    "北溟心法/初探北溟心法.md",
+    "北溟心法/初探北溟心法",
+    "北溟心法/中醫精髓圖解.pdf",
+    "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
+    "北溟心法/中醫精髓圖解.pdf.crdownload",
     "北溟心法/未命名.md",
     "詳解.md",
     "北溟心法",
