@@ -21,6 +21,22 @@
               "icon": "lucide-file",
               "title": "初探北溟心法(暫時總檔案)"
             }
+          },
+          {
+            "id": "7c2aef484e1c6695",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "北溟心法/中醫精髓圖解.pdf",
+                "page": 14,
+                "left": -15,
+                "top": 728,
+                "zoom": 1.0175675675675675
+              },
+              "icon": "lucide-file-text",
+              "title": "中醫精髓圖解"
+            }
           }
         ]
       }
@@ -185,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -215,9 +231,9 @@
   },
   "active": "d655b650c62bc077",
   "lastOpenFiles": [
-    "北溟心法/初探北溟心法",
     "北溟心法/中醫精髓圖解.pdf",
     "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
+    "北溟心法/初探北溟心法",
     "北溟心法/中醫精髓圖解.pdf.crdownload",
     "北溟心法/未命名.md",
     "詳解.md",
