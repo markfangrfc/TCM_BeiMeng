@@ -166,8 +166,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -176,8 +176,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -196,8 +196,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           }
         ],
