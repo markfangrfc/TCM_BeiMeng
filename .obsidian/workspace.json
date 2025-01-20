@@ -22,7 +22,8 @@
               "title": "test"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,6 +217,7 @@
   "active": "e350833412ad034f",
   "lastOpenFiles": [
     "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
+    "北溟心法/中醫精髓圖解.pdf",
     "test.md",
     "北溟心法/中醫精髓圖解.pdf",
     "formulas/保和丸.md",
@@ -241,7 +243,6 @@
     "formulas/黃連上清丸.md",
     "formulas/黃芩滑石湯.md",
     "formulas/黃芩湯.md",
-    "formulas/黃芩加半夏生薑湯.md",
     "formulas",
     "herbs",
     "acupoints",
