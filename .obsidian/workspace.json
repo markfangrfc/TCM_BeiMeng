@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
+                "file": "test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初探北溟心法(暫時總檔案)"
+              "title": "test"
             }
           }
         ]
@@ -213,10 +213,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "88d50f9c283f9724",
+  "active": "e350833412ad034f",
   "lastOpenFiles": [
-    "北溟心法/中醫精髓圖解.pdf",
     "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
+    "test.md",
+    "北溟心法/中醫精髓圖解.pdf",
     "formulas/保和丸.md",
     "formulas/神麯.md",
     "formulas/麥門冬湯.md",
