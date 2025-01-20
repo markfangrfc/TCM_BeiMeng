@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4e1abf114938d6",
+        "id": "27fb2993e39bfd83",
         "type": "tabs",
         "children": [
           {
-            "id": "0cced83fca1007e4",
+            "id": "88d50f9c283f9724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "初探北溟心法(暫時總檔案)"
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "d1c1070ed7995d15",
@@ -208,8 +213,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0cced83fca1007e4",
+  "active": "88d50f9c283f9724",
   "lastOpenFiles": [
+    "北溟心法/中醫精髓圖解.pdf",
+    "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
+    "formulas/保和丸.md",
+    "formulas/神麯.md",
+    "formulas/麥門冬湯.md",
+    "formulas/一貫煎.md",
+    "herbs/苦楝子.md",
+    "北溟心法/麥冬.md",
+    "formulas/一捻金.md",
     "formulas/龜鹿二仙膠.md",
     "formulas/龍骨遠志丸.md",
     "formulas/龍膽瀉肝湯.md",
@@ -227,19 +241,9 @@
     "formulas/黃芩滑石湯.md",
     "formulas/黃芩湯.md",
     "formulas/黃芩加半夏生薑湯.md",
-    "formulas/黃耆鱉甲散.md",
-    "formulas/黃耆芍藥桂枝苦酒湯.md",
-    "formulas/黃耆湯.md",
-    "formulas/黃耆桂枝五物湯.md",
-    "formulas/黃耆建中湯.md",
-    "formulas/黃土湯.md",
-    "formulas/麻黃附子細辛湯.md",
-    "formulas/麻黃附子甘草湯.md",
-    "formulas/麻黃附子湯.md",
     "formulas",
     "herbs",
     "acupoints",
-    "北溟心法/中醫精髓圖解.pdf",
     "北溟心法/初探北溟心法",
     "北溟心法/中醫精髓圖解.pdf.crdownload",
     "北溟心法",
