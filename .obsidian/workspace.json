@@ -206,15 +206,16 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-text-transporter:Text Transporter": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "88d50f9c283f9724",
   "lastOpenFiles": [
+    "gitignore",
     "北溟心法/初探北溟心法/初探北溟心法(暫時總檔案).md",
     "北溟心法/中醫精髓圖解.pdf",
     "formulas/保和丸.md",
